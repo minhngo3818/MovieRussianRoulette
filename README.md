@@ -76,7 +76,7 @@ stats
    ```
 8. Set the environment variables:
    ```bash
-   export SUPABASE_URL_=your_supabase_url
+   export SUPABASE_URL=your_supabase_url
    export SUPABASE_KEY=your_supabase_key
    ```
 
@@ -87,7 +87,7 @@ stats
 ## How to use
 1. Set the environment variables:
    ```bash
-   export SUPABASE_URL_=your_supabase_url
+   export SUPABASE_URL=your_supabase_url
    export SUPABASE_KEY=your_supabase_key
    ```
 
